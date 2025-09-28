@@ -1,7 +1,7 @@
 
 # Trello-Lite (JS + React + Express)
 
-A clean, graduate-friendly Trello-style project board. Frontend is **React (Vite)** with **TailwindCSS** and drag-and-drop using **@hello-pangea/dnd**. Backend is **Node/Express** with a simple JSON file store.
+Trello-style project board. Frontend is **React (Vite)** with **TailwindCSS** and drag-and-drop using **@hello-pangea/dnd**. Backend is **Node/Express** with a simple JSON file store.
 
 ## ✨ Features
 - Boards → Lists → Cards hierarchy
